@@ -1,6 +1,3 @@
-# snannap-krachoud-prabchau-a3
-
-
 # Part 1
 
 ## AIM
