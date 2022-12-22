@@ -1,4 +1,4 @@
-# basrini-sborasan-krachoud-a1
+
 Elements of Artificial Intelligence Assignment 1 
 ## Report for Assignment 1
 
